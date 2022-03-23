@@ -1,4 +1,5 @@
-<h1 align="center"> Oi!! Eu sou o Nathan 😁 <h1>
+<h1 align="center"> ╔═══════════ Hi! I'm Nathan ⭐ ═══════════╗ <h1>
+<h2 align="center"> ╚ ═ ═ I am a computer engineering student who loves technology💜 ═ ═ ╝ <h2>
 
 <!-- GIT STATUS -->
 
