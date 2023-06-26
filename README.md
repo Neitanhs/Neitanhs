@@ -19,7 +19,7 @@
   <img align="center" alt="Neitã-Bootstrap" height="30" width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Neitã-React" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <!-- <img align="center" alt="Neitã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  -->
- <img align="right" alt="Neitã-img" height="160" style="border-radius:50" src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif"> 
+ <img align="right" alt="Neitã-img" height="100" style="border-radius:50" src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif"> 
 </div>
   
   ##
