@@ -1,14 +1,5 @@
 <h1 align="center">  Hi! I'm Nathan  <h1>
 <h2 align="center"> I am a computer engineering student who loves technology 💜<h2>
-
-<!-- GIT STATUS 
-
-<div align="center">
-  <ahref="https://github.com/neitanhs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neitanhs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neitanhs&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  -->
   
   <!-- ÍCONES DAS LIGUAGENS -->
   
