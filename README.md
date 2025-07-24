@@ -1,49 +1,60 @@
-<h1 align="center">Hello! I'm Nathan</h1>
+<h1 align="center">Hello! I'm Nathan 👋</h1>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+---
 
-  <!-- TECHNOLOGIES I WORK WITH -->
-  <div style="width: 45%;">
-    <h3 align="start">💼 Technologies I work with:</h3>  
-    <div style="display: inline_block">
-      <img align="center" alt="Nathan-NodeJS" height="30" width="90" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white">   
-      <img align="center" alt="Nathan-TypeScript" height="30" width="110" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">    
-      <img align="center" alt="Nathan-React" height="30" width="90" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-      <img align="center" alt="Nathan-NestJS" height="30" width="110" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-      <img align="center" alt="Nathan-AWS" height="30" width="80" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-      <img align="center" alt="Nathan-Gitlab" height="30" width="80" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
-    </div>
-  </div>
+### ⚙️ Current Work Stack
 
-  
+<p align="left">
+  <img alt="Nathan-Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white"/>
+  <img alt="Nathan-OneIdentity" src="https://img.shields.io/badge/One%20Identity-0078D4?style=for-the-badge&logo=one-identity&logoColor=white" />
+  <img alt="Nathan-IAM" src="https://img.shields.io/badge/Identity%20%26%20Access%20Management-ff9900?style=for-the-badge"/>
+</p>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; margin-top: 20px;">
+---
 
-  <!-- TECHNOLOGIES I'M STUDYING -->
-  <div style="width: 45%;">
-    <h3 align="start">📚 Technologies I'm studying:</h3>
-    <div style="display: inline_block">
-      <img align="center" alt="Nathan-Docker" height="30" width="80" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-      <img align="center" alt="Nathan-Go" height="30" width="70" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-      <img align="center" alt="Nathan-Rust" height="30" width="70" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-      <img align="center" alt="Nathan-Jenkins" height="30" width="90" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-      <img align="center" alt="Nathan-Terraform" height="30" width="120" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
-      <img align="center" alt="Nathan-Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    </div>
-  </div>
+### 🚀 Focused Studies (Target: Mid-Level DevOps by 2026)
 
-<!-- MOST USED LANGUAGE -->
-<div style="width: 45%;">
-  <h3 align="start">🔥 Most used language:</h3>
-  <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neitanhs&layout=compact&theme=dark" alt="Top Langs" style="max-width: 70%;">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfwtrdo-80c5b3ae-615f-4074-9f0e-c772659e4e79.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZ3dHJkby04MGM1YjNhZS02MTVmLTQwNzQtOWYwZS1jNzcyNjU5ZTRlNzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3iKkKrjeG6eQFUmlq4I48HZ51hGyHGd_qHBelGyZuRo" style="width: 300px; height: auto;">
-  </div>
+<p align="left">
+  <img alt="Nathan-Github" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img alt="Nathan-Go" src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="Nathan-Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img alt="Nathan-Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Nathan-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 💼 Technologies I've Worked With
+
+<p align="left">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Insights
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 100px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=neitanhs&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" width="320" alt="GitHub Stats"/>
+  <img src="https://i.pinimg.com/originals/67/9a/cf/679acfc168d0846ab8834d5ef7735038.gif" width="235" alt="Coding Gif"/>
 </div>
 
-<div style="text-align: center; display: flex; align-items: center; justify-content: center; margin-top: 20px;">   
-      <h3 align="start">📞 Contact:</h3>
+### 🛠️ Project In Planning
 
-  <a href="mailto:nathanhs002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathan-henrique-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-</div>
+| Project | Tech Stack | Status |
+|--------|------------|--------|
+| **End-to-End DevOps Pipeline** | Go, GitHub Actions, Azure App Service, Terraform, Docker | 🧠 Planning |
+
+---
+
+### 🔗 Contact
+
+<p align="left">
+  <a href="mailto:nathanhs002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nathan-henrique-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
