@@ -39,9 +39,9 @@
 
 ### 📈 GitHub Insights
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 100px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=neitanhs&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" width="320" alt="GitHub Stats"/>
-  <img src="https://i.pinimg.com/originals/67/9a/cf/679acfc168d0846ab8834d5ef7735038.gif" width="235" alt="Coding Gif"/>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=neitanhs&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" width="500" alt="GitHub Stats"/>
+  <img src="https://i.pinimg.com/originals/67/9a/cf/679acfc168d0846ab8834d5ef7735038.gif" width="370" alt="Coding Gif"/>
 </div>
 
 ### 🛠️ Project In Planning
